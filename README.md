@@ -28,10 +28,15 @@ The following has been verified for evaluation:
    As stated by S.O.L.I.D:
 
    S - Single Responsibility
+   
    O - Open/Closed 
+   
    L - Liskov Substitution
+   
    I - Interface Segrgation
+   
    D - Dependency Inversion
+   
 
 
 5. Simple nouns and verbs with camel case naming convention has been used to improve the readability of the code conforming with the flow along with necessary comments.
@@ -39,8 +44,11 @@ The following has been verified for evaluation:
 6. Instructions has been followed as suggested, such as:
 
 	a. Including this file (README.txt)
+	
 	b. JUnit5 has been used for unit testing
+	
 	c. Not used any build tool, as it was not mandatory
+	
 
 
 
